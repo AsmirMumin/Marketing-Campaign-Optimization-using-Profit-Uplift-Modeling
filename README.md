@@ -1,1 +1,1 @@
-# hu_apa: Marketing Campaign Optimization using Causal Inference
+# Marketing Campaign Optimization using Profit Uplift Modeling
